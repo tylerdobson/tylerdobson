@@ -1,107 +1,87 @@
 # Tyler Dobson
 
-## Aspiring Data Analyst | SQL • Tableau • Python
+## Data Analyst (Aspiring) | SQL • Tableau • Python
 
-I am a Business Analytics student at the University of South Florida focused on using data to drive better business decisions. I build projects that transform raw data into actionable insights through data cleaning, SQL analysis, and visualization.
-
----
-
-## Technical Skills
-
-- SQL (joins, aggregations, analytical queries)
-
-- Python (Pandas, data cleaning, preprocessing)
-
-- Tableau (dashboards, forecasting, storytelling)
-
-- Power BI (data visualization)
-
-- Excel (PivotTables, structured analysis)
+I’m a Business Analytics student at the University of South Florida focused on using data to drive better business decisions. I build projects that transform raw data into structured insights using SQL, Python, and visualization tools.
 
 ---
 
-## Featured Projects
+## 🛠️ Technical Stack
 
-### Retail Revenue Analysis (SQL)
-
-Analyzed retail sales data using SQL to identify revenue trends, top customers, and regional performance.
-
-- Revenue by region
-
-- Top-performing customers
-
-- Monthly sales trends
+### Languages & Tools
+![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
+![Python](https://img.shields.io/badge/Python-Data%20Processing-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboarding-yellow)
+![Excel](https://img.shields.io/badge/Excel-Analysis-green)
 
 ---
 
-### Tableau Forecasting & Discount Analysis
+## 📊 Featured Projects
 
-Built an interactive Tableau dashboard to analyze sales trends, forecast revenue, and evaluate discount impact.
+### 🔹 Retail Revenue Analysis (SQL)
+Analyzed retail sales data to identify revenue trends, top customers, and regional performance.
 
-- Sales forecasting
-
-- Profitability analysis
-
-- Regional and segment insights
-
----
-
-### Labor Market Intelligence (SQL)
-
-Developed a SQL-based project analyzing labor market trends, income distribution, and affordability patterns.
-
-- Economic trend analysis
-
-- Regional comparisons
-
-- Data modeling with reusable queries
+- Revenue by region  
+- Top customers  
+- Monthly trends  
 
 ---
 
-### Sales Data Cleaning Pipeline (Python)
+### 🔹 Tableau Forecasting & Discount Analysis
+Built an interactive dashboard analyzing sales trends, forecasting revenue, and discount impact.
 
-Cleaned and standardized messy retail data to prepare it for accurate downstream analysis.
-
-- Data cleaning and preprocessing
-
-- Standardization and validation
-
-- Structured outputs for SQL analysis
+- Forecast modeling  
+- Profitability insights  
+- Regional comparisons  
 
 ---
 
-### SEC Financial Statement Pipeline
+### 🔹 Labor Market Intelligence (SQL)
+Analyzed labor market and income data to identify affordability trends and economic patterns.
 
-Built a data pipeline to extract and structure SEC financial data for analysis of company performance.
-
-- Financial data extraction
-
-- Data structuring and transformation
-
-- Foundation for financial analysis
+- Wage vs cost-of-living trends  
+- Regional comparisons  
+- Structured SQL analysis  
 
 ---
 
-## What I Focus On
+### 🔹 Sales Data Cleaning Pipeline (Python)
+Cleaned and standardized messy retail data to prepare it for accurate analysis.
 
-- Turning messy data into structured datasets
-
-- Using SQL to uncover trends and insights
-
-- Building dashboards that communicate findings clearly
-
-- Applying analytics to real-world business problems
+- Data cleaning  
+- Standardization  
+- Pipeline structure  
 
 ---
 
-## Current Goal
+### 🔹 SEC Financial Statement Pipeline
+Built a pipeline to extract and structure financial data for company performance analysis.
 
-Seeking a data analytics internship where I can apply my skills in SQL, Python, and data visualization to real-world business challenges.
+- Data extraction  
+- Structuring financial datasets  
+- Analytical foundation  
 
 ---
 
-## Contact
+## 📈 GitHub Stats
 
-- LinkedIn: https://www.linkedin.com/in/tylerdobson
+![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerdobson&show_icons=true&theme=default)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerdobson&layout=compact)
+
+---
+
+## 🎯 Focus Areas
+
+- Data cleaning and transformation  
+- SQL-based analysis  
+- Business intelligence and dashboards  
+- Turning data into actionable insights  
+
+---
+
+## 📬 Contact
+
+- LinkedIn: https://www.linkedin.com/in/tylerdobson  
 - Email: tydobson41@gmail.com
