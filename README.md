@@ -66,9 +66,9 @@ Built a pipeline to extract and structure financial data for company performance
 
 ## 📈 GitHub Stats
 
-![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerdobson&show_icons=true&theme=default)
+![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerdobson&show_icons=true&theme=default&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerdobson&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerdobson&layout=compact&cache_seconds=86400)
 
 ---
 
