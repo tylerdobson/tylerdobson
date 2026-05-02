@@ -1,87 +1,34 @@
 # Tyler Dobson
 
-## Business Analytics & AI Student @ The University of South Florida | SQL • Python • Tableau • Excel | Data Analysis & Visualization
+Business Analytics and AI student at the University of South Florida building a portfolio in SQL, Python, Tableau, Excel, and business intelligence.
 
-I’m a Business Analytics student at the University of South Florida focused on using data to drive better business decisions. I build projects that transform raw data into structured insights using SQL, Python, and visualization tools.
+I am focused on practical analytics work: cleaning messy data, designing SQL analyses, building dashboards, and turning results into business-facing recommendations. This profile is organized so a recruiter or hiring manager can quickly see what I can build, how I structure projects, and how I explain analytical work.
 
----
+## Portfolio
 
-## 🛠️ Technical Stack
-
-### Languages & Tools
-![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
-![Python](https://img.shields.io/badge/Python-Data%20Processing-yellow)
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboarding-yellow)
-![Excel](https://img.shields.io/badge/Excel-Analysis-green)
-
----
-
-## 📊 Featured Projects
-
-### 🔹 Retail Revenue Analysis (SQL)
-Analyzed retail sales data to identify revenue trends, top customers, and regional performance.
-
-- Revenue by region  
-- Top customers  
-- Monthly trends  
-
----
-
-### 🔹 Tableau Forecasting & Discount Analysis
-Built an interactive dashboard analyzing sales trends, forecasting revenue, and discount impact.
-
-- Forecast modeling  
-- Profitability insights  
-- Regional comparisons  
-
----
-
-### 🔹 Labor Market Intelligence (SQL)
-Analyzed labor market and income data to identify affordability trends and economic patterns.
-
-- Wage vs cost-of-living trends  
-- Regional comparisons  
-- Structured SQL analysis  
-
----
-
-### 🔹 Sales Data Cleaning Pipeline (Python)
-Cleaned and standardized messy retail data to prepare it for accurate analysis.
-
-- Data cleaning  
-- Standardization  
-- Pipeline structure  
-
----
-
-### 🔹 SEC Financial Statement Pipeline
-Built a pipeline to extract and structure financial data for company performance analysis.
-
-- Data extraction  
-- Structuring financial datasets  
-- Analytical foundation  
-
----
-
-## 📈 GitHub Stats
-
-![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerdobson&show_icons=true&theme=default&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerdobson&layout=compact&cache_seconds=86400)
-
----
-
-## 🎯 Focus Areas
-
-- Data cleaning and transformation  
-- SQL-based analysis  
-- Business intelligence and dashboards  
-- Turning data into actionable insights  
-
----
-
-## 📬 Contact
-
-- LinkedIn: https://www.linkedin.com/in/tylerdobson  
+- Portfolio site: https://tylerdobson.github.io/
+- LinkedIn: https://www.linkedin.com/in/tylerdobson
 - Email: tydobson41@gmail.com
+
+## Featured Projects
+
+| Project | What it shows | Tools |
+| --- | --- | --- |
+| [Airbnb Market Intelligence Dashboard](https://github.com/tylerdobson/airbnb-market-intelligence-dashboard) | End-to-end analytics workflow with processed data, SQL, KPIs, and an interactive Streamlit dashboard | Python, Pandas, SQLite, SQL, Streamlit, Plotly |
+| [Sales Data Cleaning and Standardization](https://github.com/tylerdobson/sales-data-cleaning-standardization) | Data cleaning pipeline that standardizes messy sales exports, separates rejected records, and publishes analysis-ready outputs | Python, Pandas, SQLite, CSV |
+| [SQL Retail Revenue Analysis](https://github.com/tylerdobson/sql-retail-revenue-analysis) | Relational SQL analysis of revenue, customers, products, regions, and monthly sales trends | SQL, SQLite, CSV |
+| [Tableau Forecasting and Discount Analysis](https://github.com/tylerdobson/tableau-forecasting-discount-analysis) | Executive-style dashboard work focused on sales, profit, discount behavior, and forecasting | Tableau, BI, KPI reporting |
+| [SQL Labor Market Intelligence](https://github.com/tylerdobson/sql-labor-market-intelligence) | Warehouse-style SQL project with dimension tables, fact tables, reusable views, and data quality checks | SQL, SQLite, data modeling |
+
+## Core Skills
+
+- SQL analysis: joins, aggregations, ranking, date trends, reusable views, data quality checks
+- Python analytics: Pandas workflows, cleaning logic, validation, CSV and SQLite outputs
+- Business intelligence: Tableau, Power BI, Streamlit, KPI reporting, dashboard storytelling
+- Project packaging: READMEs, data dictionaries, outputs, project notes, and interview-ready summaries
+
+## Current Direction
+
+I am building toward analytics internships and entry-level data analyst roles where I can contribute to reporting, data preparation, dashboard development, and business decision support.
+
+The next improvements I am prioritizing are deployed dashboard demos, stronger project-level screenshots, and larger real-world datasets with clearer business recommendations.
