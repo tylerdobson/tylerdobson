@@ -1,6 +1,6 @@
 # Tyler Dobson
 
-## Data Analyst (Aspiring) | SQL • Tableau • Python
+## Data Analyst (Aspiring) | SQL • Tableau • Python • Excel 
 
 I’m a Business Analytics student at the University of South Florida focused on using data to drive better business decisions. I build projects that transform raw data into structured insights using SQL, Python, and visualization tools.
 
