@@ -1,8 +1,7 @@
 Tyler Dobson
 
-**Artificial Intelligence & Business Analytics & Information Systems Student at the University of South Florida — building practical analytics projects in SQL, Python, BI, Tableau & Excel **
-
-Focus areas: data analysis · SQL · Python · Tableau · Business Intelligence · AI automation · Evidence Based Portfolio Work.
+**Artificial Intelligence & Business Analytics & Information Systems Student at the University of South Florida.
+Focus areas: Data Analysis · SQL · Python · Tableau · Business Intelligence · AI automation · Excel
 
 ---
 
