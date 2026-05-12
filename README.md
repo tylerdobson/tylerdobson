@@ -1,6 +1,6 @@
 # Tyler Dobson
 
-**Business Analytics & AI student at the University of South Florida — building practical analytics projects in SQL, Python, BI, and AI-assisted workflows.**
+**Business Analytics & AI student at the University of South Florida — building practical analytics projects in SQL, Python, BI, and experimenting with AI-assisted workflows.**
 
 Focus areas: data analysis · SQL · Python · Tableau · business intelligence · AI automation · evidence-backed portfolio work.
 
@@ -10,8 +10,13 @@ Focus areas: data analysis · SQL · Python · Tableau · business intelligence 
 
 I am a Business Analytics and AI student at USF (Tampa) targeting **data analyst, BI analyst, analytics, information systems, and AI automation** internships. I build small, end-to-end analytics projects that turn raw data into business questions, queries, dashboards, and clearly documented findings.
 
-I work the way I want to work in industry: business question first, reproducible code, sanitized data, README-driven documentation, and honest scoping about what each project does and doesn't prove. I use Claude Code, Codex, and an Obsidian "second brain" to keep that workflow disciplined.
+I work the way I want to work in industry: business question first, reproducible code, sanitized data, driven documentation, and honest scoping about what each project does and doesn't prove.
 
+Contact
+Portfolio: tylerdobson.github.io
+LinkedIn: linkedin.com/in/tylerdobson
+Email: tydobson41@gmail.com
+GitHub: github.com/tylerdobson
 ---
 
 ## Current Focus
@@ -20,7 +25,7 @@ I am currently building a portfolio around practical analytics, software, and AI
 
 - **Analytics and business intelligence:** building SQL, Python, Tableau, Power BI, Excel, and dashboard-style projects that turn raw data into structured business insights.
 - **Programming and web fundamentals:** strengthening my ability to build with Python, SQL, HTML, CSS, JavaScript, and Java through portfolio projects, scripts, dashboards, and small application workflows.
-- **AI-assisted automation:** experimenting with Claude Code, Codex, Obsidian, GitHub, and structured prompt systems to automate research intake, project documentation, validation checks, career tracking, and evidence-based portfolio development.
+- **AI-assisted automation:** experimenting with Claude Code, Codex, Obsidian, GitHub, and structured prompt systems to automate research intake, project documentation, validation checks, career tracking, and evidence-based developments.
 - **AI engineering-style workflows:** learning how to design repeatable systems that combine prompts, scripts, validation, documentation, version control, and human review. Examples include job-market skill extraction, resume/interview evidence mapping, research-processing pipelines, and GitHub-ready project packaging.
 - **Career intelligence systems:** developing projects that connect job-market signals to my own skill gaps and project evidence so I can see exactly which artifact closes which gap.
 
@@ -36,7 +41,7 @@ Examples of workflows I am building or testing:
 - **AI Second Brain Command Center:** uses Obsidian as a source of truth for raw sources, processed notes, permanent insights, project evidence, resume bullets, interview stories, and weekly execution.
 - **Claude Code + Codex workflow:** separates synthesis and writing from validation, testing, Git hygiene, and reproducibility checks so no single tool is trusted as the final reviewer.
 - **Research intake automation:** captures PDFs, job postings, articles, and ChatGPT outputs into a structured review pipeline before they become project or career evidence.
-- **Portfolio packaging workflow:** turns private project artifacts into sanitized, GitHub-ready repositories with documented limitations, tests, and a public-readiness checklist.
+- **Portfolio packaging workflow:** turns private project artifacts into sanitized, documented limitations, tests, and a public readiness checklist.
 
 ---
 
@@ -88,8 +93,8 @@ Examples of workflows I am building or testing:
 - Strengthening: Java fundamentals through coursework and small practice projects
 
 **AI & Automation**
-- Claude Code and Codex for AI-assisted analysis, documentation, and project review
-- Obsidian-based knowledge system with operating rules and evidence discipline
+- AI-assisted analysis, documentation, and project review
+- knowledge system with operating rules and evidence discipline
 - Prompt design, tool orchestration, validation loops, and human-in-the-loop review
 - Lightweight automation agents (Canvas calendar, application quick-fill)
 
@@ -125,14 +130,8 @@ Next priorities, in order:
 - **Career analytics, public** — graduate the Job Market Skill Radar from a private pilot to a public-ready artifact after independent review.
 - **Internship search alignment** — focus all new project work on closing the specific skill gaps mapped to data analyst / BI / analytics / information systems / AI automation roles.
 
----
 
-## Contact
 
-- **Portfolio:** [tylerdobson.github.io](https://tylerdobson.github.io/)
-- **LinkedIn:** [linkedin.com/in/tylerdobson](https://www.linkedin.com/in/tylerdobson)
-- **Email:** tydobson41@gmail.com
-- **GitHub:** [github.com/tylerdobson](https://github.com/tylerdobson)
 
 ---
 
