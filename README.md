@@ -10,7 +10,7 @@ Focus areas: data analysis · SQL · Python · Tableau · Business Intelligence 
 
 - Portfolio: [tylerdobson.github.io](https://tylerdobson.github.io/)
 - LinkedIn: [linkedin.com/in/tylerdobson](https://www.linkedin.com/in/tylerdobson)
-- Email: tydobson41@gmail.com
+- Email: tydobson41@gmail.com & tylerdobson@usf.edu
 - GitHub: [github.com/tylerdobson](https://github.com/tylerdobson)
 
 ---
