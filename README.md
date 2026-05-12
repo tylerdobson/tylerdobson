@@ -1,7 +1,7 @@
 # Tyler Dobson
 
-Artificial Intelligence, Business Analytics and Information Systems, student at the University of South Florida.
-Focused on data analytics, business intelligence, Python and SQL analysis.
+Artificial Intelligence, Business Analytics and Information Systems, Student at the University of South Florida.
+Focused on Data Analytics, Business Intelligence, Python and SQL analysis.
 
 
 I build practical analytics projects that turn messy information into structured outputs: cleaned datasets, SQL models, dashboards, reports, evidence maps, and decision-ready summaries. My current work is centered on building a portfolio that proves not only technical skill, but also clear documentation, reproducibility, and business-facing communication.
