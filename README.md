@@ -10,9 +10,7 @@
 
 ## ✦ About
 
-I'm Tyler Dobson, a junior at the **University of South Florida** pursuing a B.S. in **Artificial Intelligence and Analytics** (graduating May 2027) and based in Tampa, FL. I work along a three-phase trajectory — **Data → Full-Stack → AI Engineering** — writing Python and TypeScript every day and shipping full-stack applications end-to-end. 
-
-Alongside the full-stack work I build reproducible Python pipelines, SQL warehouses, and BI dashboards — twelve-plus shipped projects spanning decision-intelligence, market analytics, financial ETL, and AI-assisted workflow systems.
+I'm Tyler Dobson, a junior at the **University of South Florida** pursuing a B.S. in **Artificial Intelligence and Analytics** (graduating May 2027) and based in Tampa, FL. 
 
 ---
 
@@ -159,28 +157,6 @@ Alongside the full-stack work I build reproducible Python pipelines, SQL warehou
 
 ---
 
-## ✦ The Trajectory
-
-```
-  ┌───────────────────────────┐     ┌────────────────────────────┐     ┌──────────────────────────────┐
-  │  Phase 1 — Shipped        │  →  │  Phase 2 — Building        │  →  │  Phase 3 — Convergence       │
-  │  Data Science & Analytics │     │  Software & Full-Stack     │     │  AI Engineering              │
-  │  Python · pandas · SQL    │     │  Next.js · React · TS      │     │  Agents · RAG · Local LLMs   │
-  │  Tableau · Streamlit · BI │     │  Supabase · Postgres · RLS │     │  Evaluation · Orchestration  │
-  └───────────────────────────┘     └────────────────────────────┘     └──────────────────────────────┘
-```
-
-**Phase 1** is where my shipped portfolio lives — analytics, ETL, and dashboard projects with quantifiable outputs. **Phase 2** is where I'm spending most of my build time today: a production-style full-stack application with auth, RLS, server actions, and three test layers. **Phase 3** is the convergence — agentic systems and local LLMs sitting on top of the data and software fundamentals I'm establishing now.
-
----
-
-## ✦ Currently
-
-- **Shipping** &nbsp;`Career Path Command Center` — a full-stack career operating system on Next.js 16 App Router (TypeScript, React 19), Tailwind CSS v4, Supabase Postgres with Row-Level Security and server-side Auth, and Zod-backed schema validation end-to-end. Three test layers (Vitest unit, Vitest + jsdom + @testing-library, Playwright E2E). Deployed on Vercel → [career-path-command-center.vercel.app](https://career-path-command-center.vercel.app)
-- **Building** &nbsp;`Job Market Skill Radar` *(private, V4)* — a Python skill-extraction pipeline over an internship-posting corpus. 34 passing unittest cases across V2/V3/V4 layers, banned-language output guard, LF-normalized outputs, reproducible report generation with cross-checked corpus context.
-- **Studying** &nbsp;local LLMs with **Ollama**, retrieval-augmented generation pipelines, agentic workflows with **Claude Code** and the **Anthropic / OpenAI SDKs**, and evaluation practice on real business data.
-
----
 
 ## ✦ Contact Me
 
