@@ -5,7 +5,7 @@
 ---
 
 ## ✦ About
- Artificial Intelligence and Analytics @ University of South Florida** 
+ Artificial Intelligence and Analytics @ The University of South Florida** 
 ---
 
 ---
