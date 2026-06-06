@@ -5,9 +5,7 @@
 ---
 
 ## ✦ About
-
-I'm Tyler Dobson, a junior at the **University of South Florida** pursuing a B.S. in **Artificial Intelligence and Analytics** (graduating May 2027) and based in Tampa, FL. 
-
+ Artificial Intelligence and Analytics @ University of South Florida** 
 ---
 
 ---
