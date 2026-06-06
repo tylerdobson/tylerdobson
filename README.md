@@ -1,14 +1,4 @@
-<h1 align="center">Tyler Dobson</h1>
 
-
-
----
-
-## ✦ About
- Artificial Intelligence and Analytics @ The University of South Florida** 
----
-
----
 
 
 
