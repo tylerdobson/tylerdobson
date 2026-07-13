@@ -1,13 +1,8 @@
-<p align="center">
-  <a href="https://tylerdobson.github.io">
-    <img src="https://tylerdobson.github.io/og-image.png" width="100%" alt="Tyler Dobson portfolio banner" />
-  </a>
-</p>
 
 <h1 align="center">Tyler Dobson</h1>
 
 <p align="center">
-  <strong>Artificial Intelligence, Analytics &amp; Information Systems</strong><br />
+  <strong>Business Analytics &amp; Information Systems</strong><br />
   University of South Florida · Tampa, Florida
 </p>
 
@@ -25,13 +20,13 @@
 
 ## ✦ About
 
-I'm Tyler, a junior at the **University of South Florida** studying artificial intelligence, analytics, and information systems.
+I'm Tyler, a junior at the **University of South Florida** studying analytics, and information systems.
 
-I build business-focused software that turns data and manual workflows into clear, usable systems. My current development path connects three areas:
+I build business-focused software that turns data and manual workflows into clear, usable systems. 
 
-**Data & Analytics → Full-Stack Development → AI Engineering**
 
-My projects include Python and SQL pipelines, interactive dashboards, tested web applications, and AI-assisted workflows with clear validation and documentation.
+
+
 
 ## ✦ Core Stack
 
