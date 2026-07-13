@@ -18,14 +18,6 @@
 
 ---
 
-## ✦ About
-
-I'm Tyler, a junior at the **University of South Florida** studying analytics, and information systems.
-
-I build business-focused software that turns data and manual workflows into clear, usable systems. 
-
-
-
 
 
 ## ✦ Core Stack
