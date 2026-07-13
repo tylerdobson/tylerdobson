@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Building business applications across data, software, and AI.
+
 </p>
 
 <p align="center">
