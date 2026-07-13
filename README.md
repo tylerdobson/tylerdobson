@@ -1,4 +1,4 @@
-<h1 align="center">Tyler Dobson</h1>
+ <h1 align="center">Tyler Dobson</h1>
 
   <p align="center">
     <strong>Artificial Intelligence, Analytics & Information Systems</strong><br /    >
@@ -101,6 +101,17 @@
   - Exploring AI engineering through retrieval, automation, and validated
   workflows
 
+  Then select GitHub’s Preview tab before committing. The badges should appear as
+  colored images and every project name should be clickable.
 
+  This draft contains badge images but no large banner. If you also want your
+  portfolio banner, place this above the <h1>:
+
+  <p align="center">
+    <a href="https://tylerdobson.github.io">
+      <img src="https://tylerdobson.github.io/og-image.png" width="100%"
+      alt="Tyler Dobson portfolio banner" />
+    </a>
+  </p>
 
 
